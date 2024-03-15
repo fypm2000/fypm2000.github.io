@@ -4,7 +4,7 @@ I am a recent graduate with a profound interest in information technology, fuele
 
 ## Objective
 
-My journey in IT has solidified my desire to dive into the cybersecurity field, where I am eager to leverage my skills and knowledge to become a Cybersecurity Analyst. I am particularly drawn to the challenge of proactively staying ahead of current and emerging threats, whether through threat detection, incident response, or other means. I am excited to contribute to protecting digital assets and preventing cyber threats, ensuring the security and integrity of critical information systems.
+My journey in IT has solidified my desire to dive into the cybersecurity field, where I am eager to leverage my skills and knowledge to become a Cybersecurity Analyst. I am particularly drawn to the challenge of proactively staying ahead of current and emerging threats, whether through vulnerability management, incident response, or other means. I am excited to contribute to protecting digital assets and preventing cyber threats, ensuring the security and integrity of critical information systems.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
