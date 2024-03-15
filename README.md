@@ -4,7 +4,7 @@ I am a recent graduate with a profound interest in technology and I am commited 
 
 ## Objective
 
-My journey in infromation techniology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
+My journey in IT has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Cybersecurity Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
