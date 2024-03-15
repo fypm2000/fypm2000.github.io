@@ -1,6 +1,6 @@
 # Hello, I'm Justin
 
-I am a recent graduate with a profound interest in information technology, fueled by my experiences in the MSIT program. Through rigorous coursework and hands-on projects, I have developed a deep understanding of information technology and its applications in solving complex problems. It was during this program that I discovered my passion for cybersecurity and became deeply committed to ensuring the security and integrity of critical information systems.
+I am a recent graduate with a profound interest in information technology, fueled by my experiences in my MSIT program. Through rigorous coursework and hands-on projects, I have developed a deep understanding of information technology and its applications in solving complex problems. It was during this program that I discovered my passion for cybersecurity and became deeply committed to ensuring the security and integrity of critical information systems.
 
 ## Objective
 
