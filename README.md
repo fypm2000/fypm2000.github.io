@@ -11,10 +11,12 @@ My journey in IT has solidified my desire to dive into the cybersecurity field, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Enumeration | <a href="https://google.com">Detection Lab</a>|
-| Memory Forensics                              |  Automation Lab|
-| Incident Response Planning and Execution      | Automation Lab|
+| SIEM Implementation and Log Analysis          
+| Network Enumeration  | <a href="https://github.com/fypm2000/Network-Enumeration">Vulnerability Analysis Lab</a>|
+| Memory Forensics     | <a href="https://github.com/fypm2000/Memory-Forensics-Analysis">Incident Response Lab</a>|
+| Software Development |<a href="https://github.com/fypm2000/Java-Programming"> Java Programming Lab</a>|
+| Software Development |<a href="https://github.com/fypm2000/Triangular-Arbitrage-Python-"> python Programming Lab</a>|
+
 
 ## Tools
 
